@@ -1,5 +1,6 @@
-# 讲讲做这个博客的意思
+---
+date: "2025-06-27T13:09:13-06:00"
+title: Hello Myworld
+---
 
-![v2-e95c23e74994209b94628850ed2f8cda_r](C:\Users\23597\Desktop\v2-e95c23e74994209b94628850ed2f8cda_r.jpg)
-
-**<u>那当然是记录美好生活!</u>**
+**Hello Myworld** li san qian hello your world.
